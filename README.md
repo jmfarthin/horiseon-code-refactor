@@ -26,14 +26,13 @@ To view website after refactor, visit: https://jmfarthin.github.io/horiseon-code
 
 Repository: https://github.com/jmfarthin/horiseon-code-refactor.git
 
-![Horiseon website shot 1](https://github.com/jmfarthin/horiseon-code-refactor/blob/main/Develop/assets/images/horiseon1.png)
-![Horiseon website shot 2](https://github.com/jmfarthin/horiseon-code-refactor/blob/main/Develop/assets/images/horiseon2.png)
-![Horiseon website shot 3](https://github.com/jmfarthin/horiseon-code-refactor/blob/main/Develop/assets/images/horiseon3.png)
 
+Screenshots of deployed website:
 
 ![Horiseon website shot 1](./Develop/assets/images/horiseon1.png)
 ![Horiseon website shot 2](./Develop/assets/images/horiseon2.png)
 ![Horiseon website shot 3](./Develop/assets/images/horiseon3.png)
+
 
 
 
